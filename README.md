@@ -8,7 +8,7 @@ Find domains and subdomains potentially related to a given domain.
 If you have Go installed and configured (i.e. with `$GOPATH/bin` in your `$PATH`):
 
 ```
-go install -u github.com/lrckt/assetfinder@latest
+go install  github.com/lrckt/assetfinder@latest
 ```
 
 Otherwise [download a release for your platform](https://github.com/tomnomnom/assetfinder/releases).
